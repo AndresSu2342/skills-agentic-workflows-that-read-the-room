@@ -4,7 +4,7 @@ description: Keep the GitHub Info website current with practical updates from of
 intent: Review the latest official GitHub Blog and Changelog updates and propose a concise, source-backed update to the GitHub Info website for Mona's review.
 engine: 
   id: copilot
-  model: claude-5.5-sonnet
+  model: claude-sonnet-4-5
 on:
   schedule: daily
   workflow_dispatch:
